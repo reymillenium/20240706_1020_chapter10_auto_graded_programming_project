@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(20240706_1020_chapter10_auto_graded_programming_project)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(20240706_1020_chapter10_auto_graded_programming_project main.cpp)
